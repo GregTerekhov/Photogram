@@ -1,0 +1,13 @@
+export { default as AuthInputs } from "./AuthInputs/AuthInputs";
+export { default as Avatar } from "./Avatar/Avatar";
+export { default as BackgroundImage } from "./BackgroundImage/BackgroundImage";
+export { default as ButtonAuth } from "./ButtonAuth/ButtonAuth";
+export { default as ButtonDeletePost } from "./ButtonDeletePost/ButtonDeletePost";
+export { default as ButtonPublish } from "./ButtonPublish/ButtonPublish";
+export { default as Container } from "./Container/Container";
+export { default as FormContainer } from "./FormContainer/FormContainer";
+export { default as LinkAuth } from "./LinkAuth/LinkAuth";
+export { default as LinkGoBack } from "./LinkGoBack/LinkGoBack";
+export { default as LinkLogOut } from "./LinkLogOut/LinkLogOut";
+export { default as PhotoMaker } from "./PhotoMaker/PhotoMaker";
+export { default as PostInput } from "./PostInput/PostInput";
